@@ -1,0 +1,32 @@
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.exe
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.pdb
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.csproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.exe
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.pdb
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.exe.manifest
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.application
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.exe.manifest
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.application
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.ResultsWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.WelcomeWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.SettingsWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.Properties.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.exe.config
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.CreditsAndLicenseWindow.resources
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.exe.config
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.exe
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.pdb
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\ResolveAssemblyReference.cache
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.CreditsAndLicenseWindow.resources
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.Properties.Resources.resources
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.SettingsWindow.resources
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.ResultsWindow.resources
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.WelcomeWindow.resources
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.csproj.GenerateResource.Cache
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.exe.manifest
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.application
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.exe
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Debug\READOO.pdb
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.exe.manifest
+D:\MY NEW LIFE\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Debug\READOO.application

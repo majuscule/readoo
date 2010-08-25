@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="READOO.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="READOO.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <READOO.Properties.Settings>
+            <setting name="KeywordsLog" serializeAs="String">
+                <value>Keywords.log</value>
+            </setting>
+            <setting name="KeywordsLogForHumans" serializeAs="String">
+                <value>Keywords_ForHumans.txt</value>
+            </setting>
+            <setting name="LogsDirectory" serializeAs="String">
+                <value>LOGS</value>
+            </setting>
+            <setting name="PageTitleXML" serializeAs="String">
+                <value>xml/pagetitles.xml</value>
+            </setting>
+            <setting name="HotSearchesXML" serializeAs="String">
+                <value>xml/hotsearches.xml</value>
+            </setting>
+            <setting name="UnwantedKeywords" serializeAs="String">
+                <value>IllNeverBeCaught|MeNeither</value>
+            </setting>
+            <setting name="RunsBeforeCleaning" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="MinimumOccurrencesToKeep" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="SystemLogFormat" serializeAs="String">
+                <value>ex*.log</value>
+            </setting>
+            <setting name="HTMLText" serializeAs="String">
+                <value>People searched these terms to get here: </value>
+            </setting>
+            <setting name="default_HTMLText" serializeAs="String">
+                <value>People searched these terms to get here: </value>
+            </setting>
+            <setting name="defaultServerSettings" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="chosenOS" serializeAs="String">
+                <value>windows</value>
+            </setting>
+            <setting name="PlainText" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="XML" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="deliminatedFlatFile" serializeAs="String">
+                <value>True</value>
+            </setting>
+        </READOO.Properties.Settings>
+    </userSettings>
+    <applicationSettings>
+        <READOO.Properties.Settings>
+            <setting name="default_KeywordsLog" serializeAs="String">
+                <value>Keywords.log</value>
+            </setting>
+            <setting name="default_KeywordsLogForHumans" serializeAs="String">
+                <value>Keywords_ForHumans.txt</value>
+            </setting>
+            <setting name="default_LogsDirectory" serializeAs="String">
+                <value>C:\WINDOWS\system32\LogFiles\W3SVC1</value>
+            </setting>
+            <setting name="default_PageTitlesXML" serializeAs="String">
+                <value>../xml/pagetitles.xml</value>
+            </setting>
+            <setting name="default_HotSearchesXML" serializeAs="String">
+                <value>../xml/hotsearches.xml</value>
+            </setting>
+            <setting name="default_UnwantedKeywords" serializeAs="String">
+                <value>IllNeverBeCaught|MeNeither</value>
+            </setting>
+            <setting name="default_RunsBeforeCleaning" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="default_MinimumOccurrencesToKeep" serializeAs="String">
+                <value>10</value>
+            </setting>
+            <setting name="default_SystemLogFormat" serializeAs="String">
+                <value>ex*.log</value>
+            </setting>
+        </READOO.Properties.Settings>
+    </applicationSettings>
+</configuration>

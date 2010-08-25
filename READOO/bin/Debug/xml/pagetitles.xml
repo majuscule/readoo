@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<content>
+	<page name="aboutus.aspx">About Us</page>
+	<page name="appdevelop.aspx">Application Development</page>
+	<page name="appint.aspx">Application Integration</page>
+	<page name="applicationmessage.aspx">Application Message</page>
+	<page name="apply.aspx">Apply</page>
+	<page name="awards.aspx">Awards</page>
+	<page name="benefits.aspx">Benefits</page>
+	<page name="business.aspx">Business Analysis</page>
+	<page name="callcenter.aspx">Call Center</page>
+	<page name="checkappliedbefore.aspx">Checking Existing Applicant</page>
+	<page name="community.aspx">Making a Difference In the Communities We Serve</page>
+	<page name="companybg.aspx">Company Background</page>
+	<page name="contactus.aspx">Contact Us &#124; compuforce sf</page>
+	<page name="database.aspx">Database Services</page>
+	<page name="dataint.aspx">Data Integration</page>
+	<page name="division_bios.aspx">Division Bios</page>
+	<page name="corporate_bios.aspx">Corporate Bios</page>
+	<page name="helpdesk.aspx">Help Desk</page>
+	<page name="home.aspx">Home Page &#124; temp agencies nyc &#149; eden temp supp &#149; compuforce &#149; magill associates</page>
+	<page name="hrnews.aspx">HR News Archive &#124; staff</page>
+	<page name="hrroundtable_rsvp.aspx">HR Roundtable RSVP</page>
+	<page name="imac.aspx">IMAC</page>
+	<page name="job_details.aspx">Job Details</page>
+	<page name="job_search.aspx">Job Search</page>
+	<page name="network.aspx">Network Services</page>
+	<page name="outsource.aspx">Outsourcing</page>
+	<page name="news.aspx">In the News &#124; staff &#149; jim essey</page>
+	<page name="press_businessfinance.aspx">Business Finance Magazine Article</page>
+	<page name="press_crains.aspx">Crains Magazine Article</page>
+	<page name="press_inc.aspx">Inc Magazine Article</page>
+	<page name="press_success.aspx">Success Magazine Article</page>
+	<page name="privacy.aspx">Privacy Policy</page>
+	<page name="request_info.aspx">Request Info</page>
+	<page name="stf_doc_review.aspx">Document Review</page>
+	<page name="stf_practice_area.aspx">Practice Areas</page>
+	<page name="staff.aspx">Looking for Staff?</page>
+	<page name="thanks.aspx">Thanks</page>
+	<page name="work.aspx">Looking For Work?</page>
+	<page name="benefits.aspx">Benefits of Working with Us</page>
+</content>

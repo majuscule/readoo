@@ -1,0 +1,87 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="READOO.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="KeywordsLog" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Keywords.log</Value>
+    </Setting>
+    <Setting Name="KeywordsLogForHumans" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Keywords_ForHumans.txt</Value>
+    </Setting>
+    <Setting Name="LogsDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LOGS</Value>
+    </Setting>
+    <Setting Name="PageTitleXML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xml/pagetitles.xml</Value>
+    </Setting>
+    <Setting Name="HotSearchesXML" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xml/hotsearches.xml</Value>
+    </Setting>
+    <Setting Name="UnwantedKeywords" Type="System.String" Scope="User">
+      <Value Profile="(Default)">IllNeverBeCaught|MeNeither</Value>
+    </Setting>
+    <Setting Name="RunsBeforeCleaning" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="MinimumOccurrencesToKeep" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SystemLogFormat" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ex*.log</Value>
+    </Setting>
+    <Setting Name="HTMLText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">People searched these terms to get here: </Value>
+    </Setting>
+    <Setting Name="default_KeywordsLog" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Keywords.log</Value>
+    </Setting>
+    <Setting Name="default_KeywordsLogForHumans" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Keywords_ForHumans.txt</Value>
+    </Setting>
+    <Setting Name="default_LogsDirectory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\WINDOWS\system32\LogFiles\W3SVC1</Value>
+    </Setting>
+    <Setting Name="default_PageTitlesXML" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">../xml/pagetitles.xml</Value>
+    </Setting>
+    <Setting Name="default_HotSearchesXML" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">../xml/hotsearches.xml</Value>
+    </Setting>
+    <Setting Name="default_UnwantedKeywords" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">IllNeverBeCaught|MeNeither</Value>
+    </Setting>
+    <Setting Name="default_RunsBeforeCleaning" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="default_MinimumOccurrencesToKeep" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="default_SystemLogFormat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ex*.log</Value>
+    </Setting>
+    <Setting Name="default_HTMLText" Type="System.String" Scope="User">
+      <Value Profile="(Default)">People searched these terms to get here: </Value>
+    </Setting>
+    <Setting Name="defaultServerSettings" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="chosenOS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">windows</Value>
+    </Setting>
+    <Setting Name="PlainText" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="XML" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="deliminatedFlatFile" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="extensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">html|asp|aspx|net|php|xhtml</Value>
+    </Setting>
+    <Setting Name="default_extensions" Type="System.String" Scope="User">
+      <Value Profile="(Default)">html|asp|aspx|net|php|xhtml</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

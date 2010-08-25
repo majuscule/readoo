@@ -1,0 +1,16 @@
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Release\READOO.exe
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Release\READOO.pdb
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.csproj.GenerateResource.Cache
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.exe
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.pdb
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Release\READOO.exe.manifest
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Release\READOO.application
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.exe.manifest
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.application
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.ResultsWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.WelcomeWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.SettingsWindow.resources
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.Properties.Resources.resources
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\bin\Release\READOO.exe.config
+C:\Users\Dylan\Documents\Visual Studio 2008\Projects\READOO\READOO\obj\Release\READOO.CreditsAndLicenseWindow.resources

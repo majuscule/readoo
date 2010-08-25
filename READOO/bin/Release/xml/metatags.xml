@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<content>
+	<page name="aboutus.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>		
+	</page>
+	<page name="appdevelop.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="appint.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="applicationmessage.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="apply.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="awards.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="benefits.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="business.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="callcenter.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="checkappliedbefore.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="community.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="companybg.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="contactus.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="database.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="dataint.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="division_bios.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="corporate_bios.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="helpdesk.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="home.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="hrnews.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="hrroundtable_rsvp.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="imac.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="job_details.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="job_search.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="network.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="outsource.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="news.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="press_businessfinance.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="press_crains.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="press_inc.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="press_success.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="privacy.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="tempositions_advantage.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="work.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="stf_doc_review.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="stf_practice_area.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="request_info.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+	<page name="benefits.aspx">
+		<namecontent>
+			<name>Keywords</name>
+			<content>temp work, employment</content>
+		</namecontent>
+		<namecontent>
+			<name>Robots</name>
+			<content>index/follow</content>
+		</namecontent>
+	</page>
+</content>
